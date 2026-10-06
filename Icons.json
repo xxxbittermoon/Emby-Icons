@@ -1,0 +1,14 @@
+{
+  "name": "BM自用图标库",
+  "description": "无",
+  "icons": [
+    {
+      "name": "Gwai",
+      "url": "https://cdn.jsdelivr.net/gh/你的用户名/Emby-Icons@main/emby.png"
+    },
+    {
+      "name": "无",
+      "url": "无"
+    }
+  ]
+}
